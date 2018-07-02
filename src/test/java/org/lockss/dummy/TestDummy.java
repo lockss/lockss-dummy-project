@@ -32,13 +32,13 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 package org.lockss.dummy;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
 public class TestDummy {
 
   @Test
   public void testDummy() {
-    // do nothing
+    Assertions.assertEquals("Hello, dummy", new Dummy().toString());
   }
   
 }

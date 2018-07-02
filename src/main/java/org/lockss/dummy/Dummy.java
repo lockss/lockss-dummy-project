@@ -34,4 +34,9 @@ package org.lockss.dummy;
 
 public class Dummy {
 
+  @Override
+  public String toString() {
+    return "Hello, dummy";
+  }
+  
 }
