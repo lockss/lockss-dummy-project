@@ -1,3 +1,23 @@
+**ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED**
+
+```
+  ##    ####    ###   #    #  ###  #   #  #####  #####   
+ #  #   #   #  #   #  #    #   #   #   #  #       #   #  
+#    #  #   #  #      #    #   #   #   #  #       #   #  
+#    #  #   #  #      #    #   #    # #   #       #   #  
+#    #  ####   #      ######   #    # #   ####    #   #  
+######  ##     #      #    #   #    # #   #       #   #  
+#    #  # #    #      #    #   #     #    #       #   #  
+#    #  #  #   #   #  #    #   #     #    #       #   #  
+#    #  #   #   ###   #    #  ###    #    #####  #####  
+```
+
+**ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED ARCHIVED**
+
+**This Git repository is obsolete and has been archived.**
+
+----
+
 # lockss-dummy-project
 
 LOCKSS dummy project (don't use it for anything, obviously)
